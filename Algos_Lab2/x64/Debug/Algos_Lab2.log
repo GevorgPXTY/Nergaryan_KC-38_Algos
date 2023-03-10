@@ -1,0 +1,7 @@
+﻿  Algos_Lab2.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Algos_Lab2\Algos_Lab2.cpp(94,65): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Algos_Lab2.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Algos_Lab2\x64\Debug\Algos_Lab2.exe
