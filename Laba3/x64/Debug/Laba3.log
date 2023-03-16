@@ -1,0 +1,4 @@
+﻿  Laba3.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba3\Laba3.cpp(151,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba3\Laba3.cpp(259,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba3.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Laba3\x64\Debug\Laba3.exe
