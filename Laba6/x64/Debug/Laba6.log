@@ -1,0 +1,6 @@
+﻿  Laba6.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba6\Laba6.cpp(355,13): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba6\Laba6.cpp(364,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba6\Laba6.cpp(382,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba6\Laba6.cpp(367,30): warning C4101: sec_diff: неиспользованная локальная переменная
+  Laba6.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Laba6\x64\Debug\Laba6.exe

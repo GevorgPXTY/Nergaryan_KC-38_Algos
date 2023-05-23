@@ -1,0 +1,4 @@
+﻿  Laba7.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba7\Laba7.cpp(165,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba7\Laba7.cpp(191,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba7.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Laba7\x64\Debug\Laba7.exe

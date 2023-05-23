@@ -1,0 +1,6 @@
+﻿  Laba8.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba8\Laba8.cpp(25,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba8\Laba8.cpp(221,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba8\Laba8.cpp(234,30): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba8\Laba8.cpp(239,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba8.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Laba8\x64\Debug\Laba8.exe
