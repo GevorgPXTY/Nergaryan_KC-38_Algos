@@ -1,0 +1,3 @@
+﻿  Laba4.cpp
+C:\Users\Arai\Desktop\КС-28\Алгосы\Laba4\Laba4.cpp(182,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba4.vcxproj -> C:\Users\Arai\Desktop\КС-28\Алгосы\Laba4\x64\Debug\Laba4.exe
